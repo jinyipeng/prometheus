@@ -1,0 +1,1 @@
+FROM quay.io/prometheus/prometheus-linux-amd64:v2.12.0
